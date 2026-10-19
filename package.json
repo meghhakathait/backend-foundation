@@ -1,0 +1,16 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "description": "This is a node js basics project.",
+  "keywords": [
+    "node",
+    "basics"
+  ],
+  "license": "ISC",
+  "author": "Meghha Kathait",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

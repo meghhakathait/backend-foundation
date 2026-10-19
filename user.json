@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Khushi",
+    "role": "student"
+  },
+  {
+    "id": 2,
+    "name": "Megha",
+    "role": "student"
+  },
+  {
+    "id": 3,
+    "name": "Raghav",
+    "role": "student"
+  }
+]
