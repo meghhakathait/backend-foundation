@@ -8,7 +8,7 @@ async function getUsers() {
     const user = JSON.parse(content); // Converts a (JSON) string into an object.
     console.log(user);
 
-    //syyntax- JSON.stringify(value, replacer, space)
+    //syntax- JSON.stringify(value, replacer, space)
     const updateContent = JSON.stringify(user, null, 2); //Converts a JavaScript value to a (JSON) string.
     await fs.writeFile("user.json", updateContent, "utf-8"); //Formatted string ko user.json file mein write karta hai.
   } catch (error) {
